@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#6200EE</color>
+    <color name="primaryColorDark">#3700B3</color>
+    <color name="primaryColorLight">#BB86FC</color>
+
+    <color name="secondaryColor">#03DAC5</color>
+
+    <!-- Text and Background Colors -->
+    <color name="textColor">#FFFFFF</color>
+    <color name="backgroundColor">#F5F5F5</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="happy">#FFF9C4</color> <!-- Lighter Yellow -->
+    <color name="sad">#BBDEFB</color> <!-- Lighter Light Blue -->
+    <color name="excited">#FFCCBC</color> <!-- Lighter Light Orange -->
+    <color name="angry">#FFCDD2</color> <!-- Lighter Light Red -->
+    <color name="calm">#B2EBF2</color> <!-- Lighter Lighter Light Blue -->
+    <color name="nostalgic">#D1C4E9</color> <!-- Lighter Lighter Purple -->
+    <color name="anxious">#E1BEE7</color> <!-- Lighter Lighter Deep Purple -->
+    <color name="hopeful">#C8E6C9</color> <!-- Lighter Lighter Green -->
+    <color name="confused">#FFE082</color> <!-- Lighter Lighter Amber -->
+    <color name="grateful">#FFCC80</color> <!-- Lighter Lighter Deep Orange -->
+    <color name="content">#CFD8DC</color> <!-- Lighter Lighter Blue Grey -->
+    <color name="overwhelmed">#F8BBD0</color> <!-- Lighter Lighter Pink -->
+    <color name="inspired">#C5CAE9</color> <!-- Lighter Lighter Indigo -->
+    <color name="frustrated">#D7CCC8</color> <!-- Lighter Lighter Brown -->
+    <color name="joyful">#FFF9C4</color> <!-- Lighter Yellow (Same as Happy) -->
+    <color name="relaxed">#B2DFDB</color> <!-- Lighter Lighter Teal -->
+    <color name="determined">#C5CAE9</color> <!-- Lighter Lighter Dark Blue -->
+    <color name="curious">#D1C4E9</color> <!-- Lighter Lighter Deep Purple -->
+    <color name="lonely">#ECEFF1</color> <!-- Lighter Lighter Blue Grey -->
+    <color name="pensive">#EEEEEE</color> <!-- Lighter Lighter Grey -->
+    <color name="default_color">#FAFAFA</color> <!-- Lighter Light Gray for Default -->
+
+</resources>

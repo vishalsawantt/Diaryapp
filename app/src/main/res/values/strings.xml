@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MoodMemo</string>
+    <string-array name="mood_array">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Excited</item>
+        <item>Angry</item>
+        <item>Calm</item>
+        <item>Nostalgic</item>
+        <item>Anxious</item>
+        <item>Hopeful</item>
+        <item>Confused</item>
+        <item>Grateful</item>
+        <item>Content</item>
+        <item>Overwhelmed</item>
+        <item>Inspired</item>
+        <item>Frustrated</item>
+        <item>Joyful</item>
+        <item>Relaxed</item>
+        <item>Determined</item>
+        <item>Curious</item>
+        <item>Lonely</item>
+        <item>Pensive</item>
+    </string-array>
+</resources>
