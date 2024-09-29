@@ -37,3 +37,9 @@ This project is a simple journaling application for Android, designed to allow u
 - LinearLayout and ScrollView: For arranging views in the details and main screen.
 ### Styling: 
 - Uses XML-based layouts with rounded corners, color themes based on user mood, and modern Material Design components.
+
+## About Me
+I am a passionate Android developer with experience in Java and Android Studio. This app demonstrates my skills in Android app development and my commitment to creating functional and user-friendly applications.
+
+## Contact
+For any questions or feedback, please feel free to reach out at [sawantvishal2001@gmail.com].  
