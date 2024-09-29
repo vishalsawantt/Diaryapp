@@ -1,0 +1,1 @@
+This project is a simple Journal App that allows users to create, read, and delete journal entries. Each journal entry includes details such as mood, date, and content. The application leverages SQLite for efficient local data storage, enabling users to persist their journal entries even when the app is closed.
