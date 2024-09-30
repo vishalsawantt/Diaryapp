@@ -25,23 +25,16 @@ This project is a simple journaling application for Android, designed to allow u
       <img src="https://github.com/user-attachments/assets/82b47384-cfae-4d3a-93ee-19026c608b6d" alt="CreateAccount_activity" width="200">
    </div>
 
-
-## Setup Instructions
-### Prerequisites
-- Android Studio
-- Android SDK
-
-
+   
 ## Usage
-- Add Journal Entry: Click the "Add Entry" button to create a new journal.
+- Add Journal Entry: Click the "Add Journal" button to create a new journal.
 - View Details: Select any journal entry to view full details, including mood and content.
-- Edit Entry: On the details screen, click the "Edit" button to update the journal.
 - Delete Entry: Click the "Delete Journal" button to remove the entry permanently.
 
 
 ## Project Structure
-- DatabaseHelper.java: Contains the SQLite database setup, including creating tables, inserting, updating, deleting, and retrieving journal entries.
-- JournalDetailsActivity.java: Displays the details of the journal, including mood, date, and content. Also includes options to edit or delete the entry.
+- DatabaseHelper.java: Contains the SQLite database setup, including creating tables, inserting, deleting, and retrieving journal entries.
+- JournalDetailsActivity.java: Displays the details of the journal, including mood, date, and content. Also includes option to delete the entry.
 - MainActivity.java: The main entry point of the app where users can see a list of journal entries.
 
 
