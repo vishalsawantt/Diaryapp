@@ -49,10 +49,6 @@ This project is a simple journaling application for Android, designed to allow u
 - Uses XML-based layouts with rounded corners, color themes based on user mood, and modern Material Design components.
 
 
-## Download
-[Uploading app-debug [MConverter.eu].zip…]()
-
-
 ## About Me
 I am a passionate Android developer with experience in Java and Android Studio. This app demonstrates my skills in Android app development and my commitment to creating functional and user-friendly applications.
 
